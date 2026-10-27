@@ -1,0 +1,191 @@
+.clear{
+
+clear: both;
+
+}
+.container{
+
+    container: center;
+}
+
+
+.card{
+background-color: rgb(36, 67, 122);
+text-align: center;
+color: aliceblue;
+border-radius: 12px;
+padding: 40px 40px ;
+
+
+
+}
+
+.p{
+    color: rgb(195, 195, 225);
+    padding:0 0  20px  0;
+}
+
+.button{ 
+
+background-color: rgb(36, 63, 112);
+
+color: aliceblue;
+background-color: rgb(36, 65, 119);
+border-radius: 18px;
+border: 1px solid rgba(255, 255, 255, 0.3) ;
+background-color:rgba(255, 255, 255, 0.1)   ;
+padding: 10px 20px;
+margin: 0 6px;
+
+
+}
+
+.card2{
+
+
+background-color:#eae8e8;
+border-radius: 12px;
+padding: 20px;
+margin-top: 30px;
+
+}
+
+.img{
+    width:150px;
+    border-radius: 50%;
+    padding:12px ;
+    float: left;
+    margin-right: 20px;
+}
+
+
+
+.h2{
+color: rgb(48, 82, 145);
+padding:14px ;
+}
+.github{
+border-radius:6px ;
+padding: 12px;
+color: aliceblue;
+background-color: rgb(36, 66, 121);
+
+}
+.highlight{
+    color: rgb(62, 117, 220);
+    float: left;
+
+}
+
+.text-contant{
+    padding: 10px 20px ;
+    width: 60%;
+    float: left;
+    margin-top: 20px;
+}
+
+
+.skill{
+
+  background-color: #eae8e8;  
+  container: center;
+}
+
+.html{
+    background-color: #eae8e8;
+    border-radius:14px ;
+    
+    
+
+}
+
+
+.skill-box{
+background-color: #cfcccc;
+float: left;
+width:22% ;
+margin:1px 1px 1px 1px; 
+
+border-radius: 8px;
+padding: 10px;
+}
+
+.front{
+
+background-color:#eae8e8;
+border-radius: 12px;
+padding: 20px;
+margin-top: 30px;
+
+}
+
+.img{
+background-color: aliceblue;
+    width: 10%;
+    border-radius: 50%;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+
+
+.p{
+
+ padding-top:5px ;
+
+}
+::backdrop{
+
+    background-color: #eae8e8;
+}
+
+
+
+
+.contact {
+    color: #faf9f9;
+    background-color: rgb(36, 56, 94);
+    padding-left: 12px;
+    padding-bottom:10px ;
+    border-radius:10px ;
+}
+
+
+.botton2{
+
+    background-color: cornflowerblue;
+    border-radius: 10px;
+
+
+}
+
+.last{
+
+    color: #faf9f9;
+background-color: rgb(6, 20, 34);
+text-align: center;
+border-radius: 10px;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
